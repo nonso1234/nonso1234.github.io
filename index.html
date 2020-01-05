@@ -1,7 +1,18 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+title: "Featured Projects"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/home.jpg
+feature_row:
+  - image_path: /assets/images/feature1.jpg
+    alt: "TicTacToe Bot"
+    title: "ME 495 Tic Tac Toe Sawyer Arm"
+    excerpt: "Final project for ME 495.  Programming a Sawyer arm to play Tic Tac Toe using computer vision and force control."
+    url: "/portfolio/p1-Sawyer-Tic-Tac-Toe/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
+
+{% include feature_row %}
