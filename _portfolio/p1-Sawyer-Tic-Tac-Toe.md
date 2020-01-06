@@ -1,5 +1,7 @@
 ---
 title: "ME 495 Sawyer Tic Tac Toe Project"
+header:
+  teaser: "assets/images/sawyerTTT.PNG"
 excerpt: "Sawyer Tic Tac Toe project site"
 sidebar:
   - title: "Responsibilities"
@@ -8,12 +10,6 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 The project task involved programming the Sawyer robotic arm to be able to play tic tac toe with a human player.  This involved 4 main tasks: computer vision, AI, motion planning, and force control.
