@@ -78,7 +78,7 @@ author:
       url: "https://bespeland.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/bespeland"
 
 footer:
   links:
@@ -87,7 +87,7 @@ footer:
       url: "https://bespeland.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/bespeland"
 
 defaults:
   # _posts
