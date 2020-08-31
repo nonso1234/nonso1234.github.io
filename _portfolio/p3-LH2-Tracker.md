@@ -13,7 +13,11 @@ gallery:
 
 The goal of this research project was the understand and recreate the tracking system implemented by Valve with the gen2.0 lighthouses.
 
+![test](/assets/images/lighthouses.jpg)
+gen1.0 lighthouse internals (left) and gen2.0 lighthouse internals (right)
+
 The older gen1.0 lighthouses utilized two rotors with IR emitters on them, as well as a bright wide angle IR emitter.  Trackers could determine their location relative to the lighthouse based on a flash-sweep method.  It sends out a bright flash to all the sensors in the area.  And then passes a sweep (either horizontal or vertical) over the sensors immediately following the flash.  The trackers determine the time between the flash and the corresponding sweep to determine what angle that sensor is in relation to the lighthouse.  With two lighthouses (which requires syncing between the two) and some sensor geometry, one can determine a position in the area of covered by the lighthouses.
+![Flash-Sweep Gif](https://gfycat.com/abandonedvapidelkhound.gif)
 
 With gen2.0 lighthouses, there is only a single rotor and NO flash cycle.  The sensors have increased accuracy, and do not require syncing between lighthouses (tracking can be achieved with a single lighthouse).  The two major changes that allow this are that data is now encoded into the sweep IR, and the IR emitters that were providing the horizontal or vertical sweeps in the gen1.0 model are now on the same rotor with a 90 degree offset from each other.
 
@@ -33,11 +37,5 @@ Things that need to still be done:
 - ensure live decoders can determine polynomial in the time between full rotations
 - find sweep angles using polynomial + lfsr + live data
 - convert sweep angles to positions (potentially handled by other libraries like LibSurvive)
-
-
-
-
-https://www.roadtovr.com/next-gen-lighthouse-base-station-bring-rapid-cost-reductions/
-https://gfycat.com/abandonedvapidelkhound
 
 
