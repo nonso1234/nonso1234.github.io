@@ -1,7 +1,7 @@
 ---
 title: "Custom Valve Lighthouse 2.0 Tracker Research Project 2020"
 header:
-  teaser: "assets/images/vrglove.jpg"
+  teaser: "assets/images/tracker.jpg"
 excerpt: "Lighthouse 2.0 Tracker project site"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
