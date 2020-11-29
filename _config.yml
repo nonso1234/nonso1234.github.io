@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bennett Espeland Portfolio
+title: Chinonso Ovuegbe Portfolio
 # subtitle: subber
-email: bespeland@u.northwestern.edu
+email: ovuegbec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Northwestern MSR Student Portfolio for Bennett Espeland.
+  
 twitter_username: username
-github_username: bespeland
-minimal_mistakes_skin: dark
+github_username: nonso1234
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 github: [metadata]
-url: "https://bespeland.github.io"
+url: "https://nonso1234.github.io"
 teaser: /assets/images/teaser.jpg
 #logo: /assets/images/logo.jpg
 search: true
@@ -69,25 +69,31 @@ collections:
     permalink: /:collection/:path/
 
 author:
-  name   : "Bennett Espeland"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a student in the Northwesetern MSR program.  My current projects include quadrotors, SLAM, and VR controls."
+  name   : "Chinonso Ovuegbe"
+  avatar : "/assets/images/IMG-0253.JPG"
+  bio    : "Mechanical Engineer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bespeland.github.io"
+      url: "https://nonso1234.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bespeland"
+      url: "https://github.com/nonso1234"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chinonso-ovuegbe/"
 
 footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bespeland.github.io"
+      url: "https://nonso1234.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bespeland"
+      url: "https://github.com/nonso1234"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chinonso-ovuegbe/"
 
 defaults:
   # _posts

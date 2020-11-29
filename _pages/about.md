@@ -3,6 +3,5 @@ permalink: /about/
 title: "About"
 ---
 
-My name is Bennett Espeland.  I am a student in the Northwestern MSR program.  My focus within the program is consumer robotics and virtual reality controls/haptics.
+Hi I'm Chinonso Ovuegbe, I earned a Master's in Mechanical Engineering from the University of Texas at San Antonio. My focus and interests are in Robotics and Controls. 
 
-I received my undergraduate degree in Electrical Engineering and Computer Engineering from North Carolina State University in 2019.
