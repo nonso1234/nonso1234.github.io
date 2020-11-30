@@ -3,5 +3,8 @@ main:
     url: /portfolio/
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: /2019-04-18-welcome-to-jekyll/
   - title: "Contact"
     url: /contact/
+ 

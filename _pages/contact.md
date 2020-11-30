@@ -4,4 +4,4 @@ title: "Contact"
 ---
 
 email:     
-bespeland@u.northwestern.edu
+ovuegbec@gmail.com
