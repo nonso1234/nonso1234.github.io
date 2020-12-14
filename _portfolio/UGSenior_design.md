@@ -28,7 +28,7 @@ SOLUTION: We designed and fabricated an Oil Water separation and filtration syst
  
 - Float skimmer: The float skimmer was desgined to float and seive oil build up, concentrated on the water surface in the build up region, through a small drain inlet. Oil is drained down to a small catch tank. 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -68,10 +68,7 @@ SOLUTION: We designed and fabricated an Oil Water separation and filtration syst
 
 - Coalescing media: The coalescing media improves oil separation by the increasing oil droplet size as water flows through. 
 
-![Coalescing media](assets/images/coalescing_media.png "Coalescing media render")
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
