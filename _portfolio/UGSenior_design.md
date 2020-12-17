@@ -13,7 +13,7 @@ gallery:
 ---
 
 
-I and three other students worked with the Ocean's simulations lab at SouthWest Research Institute, for our Capstone project, to solve a unique water conservation problem at the lab. 
+I and three other students worked with the Ocean's simulations lab at SouthWest Research Institute(SwRI), for our Capstone project, to solve a unique water conservation problem at the lab. 
 
 PROBLEM: The lab performs subsea pressure tests on offshore vessels to simulate offshore conditions. Most of the test water used are contaminated with crude oil based residue and rust. For heavily contaminated water, oil contaminants had to be reduced before dumping. Current filtration method makes use of multiple stages of catridge filters to reduce oil. 
 
@@ -110,7 +110,40 @@ SOLUTION: We designed and fabricated an Oil Water separation and filtration syst
 ![skid render](/assets/images/skid_render.jpg "Skid mount render")
 
 
+
 Final Assembly of System after Fabrication 
-![skid render](/assets/images/Finalsys.JPG "Final Assembly - Post Fabrication")
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+.img-container {
+  float: left;
+  width: 60%;
+  padding: 5px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<p></p>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="/assets/images/Finalsys.JPG" alt="Italy" style="width:100%">
+</div>
+
+<p></p>
+
+</body>
+</html>
+
+
 
 
