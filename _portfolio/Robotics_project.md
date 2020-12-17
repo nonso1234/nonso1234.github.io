@@ -5,7 +5,7 @@ header:
 excerpt: "Robotics Course final project"
 sidebar:
    - title: "Responsibilities"
-     text: "Gripper pick and place code in MATLAB. Troubleshoot code to identify and fix " 
+     text: "Gripper pick and place code in MATLAB. Identify and fix bugs in code " 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
