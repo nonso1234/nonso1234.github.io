@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Listing of projects
+List of Projects

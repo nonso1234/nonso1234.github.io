@@ -1,10 +1,10 @@
 main:
   - title: "Projects"
-    url: /portfolio/
+    url: /_portfolio/
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /2019-04-18-welcome-to-jekyll/
+    url: /2010-03-07-post-link/
   - title: "Contact"
     url: /contact/
  
