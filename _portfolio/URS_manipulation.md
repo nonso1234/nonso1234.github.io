@@ -1,7 +1,7 @@
 ---
-title: "UR5 Pick and Place Manipulation"
+title: "UR5 Pick, Place, Sort Manipulation"
 header:
-  teaser: "assets/images/UR5.png
+  teaser: "assets/images/UR5.png"
 excerpt: "Robotics"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg 
